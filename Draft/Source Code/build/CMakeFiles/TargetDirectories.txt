@@ -1,0 +1,3 @@
+/home/xtong/Documents/workplace/py/exercise-2/build/CMakeFiles/rebuild_cache.dir
+/home/xtong/Documents/workplace/py/exercise-2/build/CMakeFiles/greedyT.dir
+/home/xtong/Documents/workplace/py/exercise-2/build/CMakeFiles/edit_cache.dir
