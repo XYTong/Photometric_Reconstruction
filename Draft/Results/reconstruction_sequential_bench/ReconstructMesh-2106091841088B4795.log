@@ -1,0 +1,24 @@
+18:41:08 [App     ] Build date: May 20 2021, 13:32:19
+18:41:08 [App     ] CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz (6 cores)
+18:41:08 [App     ] RAM: 12.42GB Physical Memory 4.00GB Virtual Memory
+18:41:08 [App     ] OS: Linux 5.4.72-microsoft-standard-WSL2 (x86_64)
+18:41:08 [App     ] SSE & AVX compatible CPU & OS detected
+18:41:08 [App     ] Command line: scene_dense.mvs
+18:41:09 [App     ] Scene loaded (439ms):
+	17 images (17 calibrated) with a total of 4.98 MPixels (0.29 MPixels/image)
+	393635 points, 0 vertices, 0 faces
+18:41:12 [App     ] Delaunay tetrahedralization completed: 393635 points -> 170708 vertices, 1063904 (+154) cells, 2127885 (+231) faces (2s655ms)
+18:41:14 [App     ] Delaunay tetrahedras weighting completed: 1064058 cells, 2128116 faces (2s482ms)
+18:41:17 [App     ] Delaunay tetrahedras graph-cut completed (211974 flow): 132699 vertices, 265814 faces (2s413ms)
+18:41:18 [App     ] Mesh reconstruction completed: 132802 vertices, 265458 faces (9s501ms)
+18:41:20 [App     ] Cleaned mesh: 132590 vertices, 264991 faces (1s306ms)
+18:41:20 [App     ] Cleaned mesh: 132591 vertices, 265007 faces (647ms)
+18:41:21 [App     ] Cleaned mesh: 132591 vertices, 265007 faces (373ms)
+18:41:21 [App     ] Scene saved (234ms):
+	17 images (17 calibrated)
+	0 points, 132591 vertices, 265007 faces
+18:41:21 [App     ] Mesh saved: 132591 vertices, 265007 faces (30ms)
+18:41:21 [App     ] MEMORYINFO: {
+18:41:21 [App     ] 	VmPeak:	 1125716 kB
+18:41:21 [App     ] 	VmSize:	  934512 kB
+18:41:21 [App     ] } ENDINFO
