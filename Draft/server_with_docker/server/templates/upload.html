@@ -1,0 +1,13 @@
+<html>
+<head>
+  <title>File Upload</title>
+</head>
+<body>
+    <form action="http://localhost:2020/uploader" method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" />
+        <input type="submit" name='submit' value="Submit" />
+        <input type="submit" name='done' value="Done">
+    </form>
+    {{data}}
+</body>
+</html>
