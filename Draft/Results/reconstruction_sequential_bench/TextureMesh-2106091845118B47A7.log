@@ -1,0 +1,20 @@
+18:45:11 [App     ] Build date: May 20 2021, 13:32:19
+18:45:11 [App     ] CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz (6 cores)
+18:45:11 [App     ] RAM: 12.42GB Physical Memory 4.00GB Virtual Memory
+18:45:11 [App     ] OS: Linux 5.4.72-microsoft-standard-WSL2 (x86_64)
+18:45:11 [App     ] SSE & AVX compatible CPU & OS detected
+18:45:11 [App     ] Command line: scene_dense_mesh_refine.mvs
+18:45:11 [App     ] Scene loaded (40ms):
+	17 images (17 calibrated) with a total of 19.92 MPixels (1.17 MPixels/image)
+	0 points, 41025 vertices, 81547 faces
+18:45:15 [App     ] Assigning the best view to each face completed: 81547 faces (3s675ms)
+18:45:17 [App     ] Generating texture atlas and image completed: 1893 patches, 4096 image size (2s186ms)
+18:45:17 [App     ] Mesh texturing completed: 41025 vertices, 81547 faces (5s874ms)
+18:45:21 [App     ] Scene saved (3s718ms):
+	17 images (17 calibrated)
+	0 points, 41025 vertices, 81547 faces
+18:45:23 [App     ] Mesh saved: 41025 vertices, 81547 faces (2s158ms)
+18:45:23 [App     ] MEMORYINFO: {
+18:45:23 [App     ] 	VmPeak:	 1324936 kB
+18:45:23 [App     ] 	VmSize:	  970156 kB
+18:45:23 [App     ] } ENDINFO
