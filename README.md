@@ -21,5 +21,5 @@ This web is not stable and please make sure that follow the steps correctly and 
 If you have a server supporting docker, then just type the command `docker pull xytong/ubuntu_docker` in root mode of your server, it will pull the image of the working pipeline made by the author to local of your server. Typing the command `docker run -ti -p 2020:2020 xytong/ubuntu_docker /bin/bash` to run a container of this image. Inside the container, find the folder named **server**(/opt/openMVG/server) and enter, typing `python3 main.py` to start the server inside the docker. As the **port 2020** of the container is mapping to the **port 2020** of your server, just visit **your_server_IP + :2020** to view the website and then use the function of reconstruction.
 
 ## Deploy using k8s
-'kubectl create -f pod.yml'  
-'kubectl create -f svc.yml'
+`kubectl create -f pod.yml`  
+`kubectl create -f svc.yml`
