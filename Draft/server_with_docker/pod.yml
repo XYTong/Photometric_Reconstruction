@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: pipeline
+  labels:
+    app: pipeline
+spec:
+  containers:
+    - name: pipeline
+      image: xytong/ubuntu_docker
+      ports:
+        - containerPort:2020 
