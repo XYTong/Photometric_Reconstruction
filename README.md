@@ -5,7 +5,7 @@ users can easily implement it without concern about the correlations of dependen
 
 ## How to use
 ### upload
-First, visit http://niubi.makelove.expert:2020/ or 46.101.218.89:2020 as the same.
+First, visit http://xiangyutong.makelove.expert:2020/ or http://46.101.142.166:2020 as the same.
 Then it comes two buttons, click  **select** to select the image and then click **submit** to upload. It is highly recommended to first use the images in the folder photogrammetric-reconstruction-ar/Draft/Source Code/result/reconstruction_result_bench, 1.jpg to 17.jpg. As the weak knowledges of the author on frontend, the website is not so stable and robust. Please do not multiple click the same button, otherwise it might lead to a crash, just select one and submit one untill all the images uploaded. Then click the button **done**, it will turn to another site for starting the reconstruction.\\
 
 ### Starting reconstruction
